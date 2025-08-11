@@ -1,4 +1,4 @@
-# Azure Cloud Computing Summary
+# Azure Fundamentals - notes for certification
 
 ## 1. Benefits of Cloud Computing
 1. **High Availability** – Avoid obvious downtime sources.  
